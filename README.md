@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository, proof that I can use this site at all.
-Also, I'm going to be putting my data science up on here - for now, it'll be jupyter notebooks.
+Hope you enjoy the work I've put together. If you have any questions, don't hesitate to email me at knecht@magisterludi.net or send me a message for any specific help I can provide!
